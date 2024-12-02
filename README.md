@@ -1,0 +1,2 @@
+JavaScriptをブラウザのコンソール(Chrome では検証機能中のコンソール)に入れて
+有効化無効化にする変数(YouTube)にtrueやfalseを当てはめることで機能します
