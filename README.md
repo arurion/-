@@ -1,2 +1,2 @@
-JavaScriptをブラウザのコンソール(Chrome では検証機能中のコンソールctrl+shift+i)に入れて<br>
+JavaScriptをブラウザのコンソール(Chrome では検証機能中のコンソールctrl+shift+j)に入れて<br>
 有効化無効化にする変数(YouTube)にtrueやfalseを当てはめることで機能します
